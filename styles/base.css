@@ -1,0 +1,15 @@
+.header {
+  background-color: crimson;
+}
+.hero {
+  background-color: goldenrod;
+}
+.message,
+.contact,
+.services {
+  background-color: cornflowerblue;
+}
+
+.footer {
+  background-color: brown;
+}
